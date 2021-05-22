@@ -10,7 +10,7 @@ public class ColombianFlagUI {
     
 	public static void main (String[] ColombianFlag) throws InterruptedException {
 		ColombianFlag cf = new ColombianFlag();
-		ColombianFlagThread thread1 = new ColombianFlagThread(cf, 0, 0 , 6 ,20,ColorFlag.YELLOW);
+		ColombianFlagThread thread1 = new ColombianFlagThread(cf, 0, 0 , 6 ,5,ColorFlag.YELLOW);
 		ColombianFlagThread thread2 = new ColombianFlagThread(cf, 0, 6 , 9 ,80,ColorFlag.BLUE);
 		ColombianFlagThread thread3 = new ColombianFlagThread(cf, 0, 9 , 12 ,100,ColorFlag.RED);
 		System.out.print(ESC+"2J");

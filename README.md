@@ -5,7 +5,7 @@
 _Program to print the Colombian flag using threads_
 
 ## Assignments
-* [File with Documentation]
+* [File with Documentation](https://github.com/DanielRamirez1901/the-beautiful-colombian-flag/blob/main/docs/ClassDiagram.pdf)
 
 ## Author
 * Daniel Ramirez Gomez. [GitHub profile.](https://github.com/DanielRamirez1901 "GitHub profile.")
